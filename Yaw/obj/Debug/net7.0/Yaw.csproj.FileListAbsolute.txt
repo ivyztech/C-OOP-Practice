@@ -1,0 +1,15 @@
+/Users/dominiquevillafuerte/Yaw/bin/Debug/net7.0/Yaw
+/Users/dominiquevillafuerte/Yaw/bin/Debug/net7.0/Yaw.deps.json
+/Users/dominiquevillafuerte/Yaw/bin/Debug/net7.0/Yaw.runtimeconfig.json
+/Users/dominiquevillafuerte/Yaw/bin/Debug/net7.0/Yaw.dll
+/Users/dominiquevillafuerte/Yaw/bin/Debug/net7.0/Yaw.pdb
+/Users/dominiquevillafuerte/Yaw/obj/Debug/net7.0/Yaw.csproj.AssemblyReference.cache
+/Users/dominiquevillafuerte/Yaw/obj/Debug/net7.0/Yaw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominiquevillafuerte/Yaw/obj/Debug/net7.0/Yaw.AssemblyInfoInputs.cache
+/Users/dominiquevillafuerte/Yaw/obj/Debug/net7.0/Yaw.AssemblyInfo.cs
+/Users/dominiquevillafuerte/Yaw/obj/Debug/net7.0/Yaw.csproj.CoreCompileInputs.cache
+/Users/dominiquevillafuerte/Yaw/obj/Debug/net7.0/Yaw.dll
+/Users/dominiquevillafuerte/Yaw/obj/Debug/net7.0/refint/Yaw.dll
+/Users/dominiquevillafuerte/Yaw/obj/Debug/net7.0/Yaw.pdb
+/Users/dominiquevillafuerte/Yaw/obj/Debug/net7.0/Yaw.genruntimeconfig.cache
+/Users/dominiquevillafuerte/Yaw/obj/Debug/net7.0/ref/Yaw.dll
